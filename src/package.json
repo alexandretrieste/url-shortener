@@ -1,8 +1,0 @@
-{
-  "name": "ShortId",
-  "version": "1",
-  "description": "Shortener Url",
-  "main": "index.js",
-  "author": "Alexandre Trieste",
-  "license": "MIT"
-}
