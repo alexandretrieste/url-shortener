@@ -1,7 +1,7 @@
 {
-	"name": "url-shortener-dio",
+	"name": "url-shortener",
 	"version": "1.0.0",
-	"description": "URL Shortener for DIO Project",
+	"description": "URL Shortener Project",
 	"main": "index.js",
 	"scripts": {
 		"build:watch": "tsc -w",
@@ -12,6 +12,7 @@
 	"author": "alexandretrieste",
 	"license": "MIT",
 	"dependencies": {
+		"@angular/http": "^7.2.16",
 		"@hasezoey/typegoose": "^5.9.2",
 		"@typescript-eslint/eslint-plugin": "^4.0.1",
 		"@typescript-eslint/parser": "^4.0.1",
